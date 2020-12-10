@@ -1,3 +1,5 @@
+https://harryxing2020.github.io/Web-Design-Challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
